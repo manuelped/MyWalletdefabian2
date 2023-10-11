@@ -24,4 +24,16 @@
     <string name="registrar">Registrar</string>
     <string name="contrase_a2">Contraseña</string>
     <string name="contrase_a3">Contraseña</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="confirmar_contrase_a">Confirmar contraseña</string>
+    <string name="registra">Registra</string>
+    <string name="ingrese_su_nombre">Ingrese su nombre</string>
+    <string name="ingrese_su_apellido">Ingrese su apellido</string>
+    <string name="ingrese_su_correo">Ingrese su correo</string>
+    <string name="ingrese_su_edad">Ingrese su edad</string>
+    <string name="ingrese_su_contrase_a">Ingrese su contraseña</string>
+    <string name="ingrese_su_contrase_a_otra_vez">Ingrese su contraseña otra vez</string>
 </resources>
